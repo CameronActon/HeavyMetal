@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 160"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg50"
+   sodipodi:docname="cabinStencil.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Winter - 128 Pixel - 25 Set - Expanded</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="5"
+     inkscape:cx="92.230006"
+     inkscape:cy="64.48872"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <title
+     id="title2">Winter - 128 Pixel - 25 Set - Expanded</title>
+  <path
+     style="fill:none;stroke:#000000"
+     d="m 19.8,49.78 0,-19.11 c 0,-1.104569 0.895431,-2 2,-2 h 15.67 c 1.104569,0 2,0.895431 2,2 l 0.05,6.81 23.13,-17.29 c 0.689987,-0.484924 1.610013,-0.484924 2.3,0 l 61.71,43.13 c 1.70608,1.099554 0.87859,3.747532 -1.15,3.68 H 111.8 v 64 c 0,1.10457 -0.89543,2 -2,2 h -92 c -1.104569,0 -2,-0.89543 -2,-2 V 67 H 2.09 C 0.13049179,67.0052 -0.66680918,64.481545 0.94,63.36 Z"
+     id="path87"
+     sodipodi:nodetypes="cssssccccccsssscccc" />
+</svg>
